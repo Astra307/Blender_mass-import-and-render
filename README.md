@@ -3,7 +3,7 @@ A script for Blender to import and render out simple images of all 3D models in 
 
 DISCLAIMER: This script is functional but still under development for more accessible use. 
 
-#Using the script
+# Using the script
 1. Download the script file "Import_andrender.py"
 2. Open a new Blender instance
 3. Open the sript in the text editor
